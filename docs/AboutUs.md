@@ -24,7 +24,7 @@ You can reach us at the email `PetPal[at]comp.nus.edu.sg`
 <img src="images/wengkit1.png.jpg" width="200px">
 
 [[github](http://github.com/wengkit1)]
-[[portfolio](team/wengkit1_portfolio.md)]
+[[portfolio](team/wengkit1.md)]
 
 * Role: Team Lead
 * Responsibilities: UI
@@ -34,7 +34,7 @@ You can reach us at the email `PetPal[at]comp.nus.edu.sg`
 <img src="images/shuimeihe.png.jpg" width="200px">
 
 [[github](http://github.com/shuimeihe)]
-[[portfolio](team/shuimeihe_portfolio.md)]
+[[portfolio](team/shuimeihe.md)]
 
 * Role: Developer
 * Responsibilities: Data
@@ -44,7 +44,7 @@ You can reach us at the email `PetPal[at]comp.nus.edu.sg`
 <img src="images/daniel-kur.png.jpg" width="200px">
 
 [[github](http://github.com/daniel-kur)]
-[[portfolio](team/daniel-kur_portfolio.md)]
+[[portfolio](team/daniel-kur.md)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
